@@ -1,0 +1,31 @@
+:root{
+    --fs12:22px;
+    --bgColor:rgb(0, 255, 153);
+}
+
+.element{
+    background-color: aqua;
+    height: 200px;
+    width: 300px;
+}
+
+.container{
+    /* font-size: var(--fs12); */
+    font-size: 34px;
+    background: var(--bgColor);
+}
+
+.main{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 24px;
+    left: 100px;
+}
+
+.xyz{
+    background: red;
+}
+.siri{
+    background: pink;
+}
